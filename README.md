@@ -16,8 +16,8 @@ This project implements a Community Engagement Rank system for the Farcaster dec
 - SQL environment compatible with the provided query (e.g., FlipsideCrypto's SQL editor)
 - Python environment for running OpenRank algorithm
 
-
-git clone https://github.com/yourusername/farcaster-community-rank.git
+1. Clone the repo  
+git clone https://github.com/asdspal/farcaster-community-rank.git
 
 2. Install required Python packages:
 
